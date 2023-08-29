@@ -70,7 +70,6 @@ Purchasing History,/api/v2/companies/{company_name}/purchasing/history/
 Purchasing History Items,/api/v2/companies/{company_name}/purchasing/history_items/
 Purchasing Items,/api/v2/companies/{company_name}/purchasing/items/
 Purchasing Orders,/api/v2/companies/{company_name}/purchasing/orders/
-Reports,/api/v2/companies/{company_name}/reports/
 Sales Batches,/api/v2/companies/{company_name}/sales/batches/
 Sales Invoice Items,/api/v2/companies/{company_name}/sales/invoice_items/
 Sales Invoices,/api/v2/companies/{company_name}/sales/invoices/
