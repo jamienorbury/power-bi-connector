@@ -1,5 +1,4 @@
 Accounts,/api/v2/accounts/
-Companies,/api/v2/companies/
 Addresses,/api/v2/companies/{company_name}/addresses/
 Accounts Payable Aged,/api/v2/companies/{company_name}/ap/aged/
 Accounts Payable Batches,/api/v2/companies/{company_name}/ap/batches/
