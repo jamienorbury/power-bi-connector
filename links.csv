@@ -88,6 +88,3 @@ Territories,/api/v2/companies/{company_name}/territories/
 User Defined Types,/api/v2/companies/{company_name}/user_defined_types/
 Users,/api/v2/companies/{company_name}/users/
 Vendors,/api/v2/companies/{company_name}/vendors/
-License,/api/v2/license/
-Status,/api/v2/status/
-Tasks,/api/v2/tasks/
