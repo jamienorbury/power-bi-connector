@@ -1,4 +1,3 @@
-Accounts,/api/v2/accounts/
 Addresses,/api/v2/companies/{company_name}/addresses/
 Accounts Payable Aged,/api/v2/companies/{company_name}/ap/aged/
 Accounts Payable Batches,/api/v2/companies/{company_name}/ap/batches/
@@ -76,5 +75,4 @@ Sales History Equipment,/api/v2/companies/{company_name}/service/sales_history_e
 Shipping Methods,/api/v2/companies/{company_name}/shipping_methods/
 Territories,/api/v2/companies/{company_name}/territories/
 User Defined Types,/api/v2/companies/{company_name}/user_defined_types/
-Users,/api/v2/companies/{company_name}/users/
 Vendors,/api/v2/companies/{company_name}/vendors/
