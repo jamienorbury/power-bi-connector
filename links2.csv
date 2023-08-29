@@ -19,7 +19,7 @@ Gl Divisions,/api/v2/companies/{company_name}/gl/divisions/
 Gl Groups,/api/v2/companies/{company_name}/gl/groups/
 Gl History Transactions,/api/v2/companies/{company_name}/gl/history/transactions/
 Gl Recurring,/api/v2/companies/{company_name}/gl/recurring/
-Gl Reconciliations,/api/v2/companies/{company_name}/gl/reconciliations/'
+Gl Reconciliations,/api/v2/companies/{company_name}/gl/reconciliations/
 Gl Segments,/api/v2/companies/{company_name}/gl/segments/
 Gl Special Accounts,/api/v2/companies/{company_name}/gl/special_accounts/
 Gl Subgroups,/api/v2/companies/{company_name}/gl/subgroups/
@@ -37,9 +37,8 @@ Inventory Price Matrix,/api/v2/companies/{company_name}/inventory/price_matrix/
 Inventory Promotions,/api/v2/companies/{company_name}/inventory/promotions/
 Inventory Receipts,/api/v2/companies/{company_name}/inventory/receipts/
 Inventory Sales Departments,/api/v2/companies/{company_name}/inventory/sales_departments/
-Inventory Sell Prices,/api/v2/companies/{company_name}/inventory/sell_prices/
 Inventory Serials,/api/v2/companies/{company_name}/inventory/serials/
-Inventory Serial Transactions,/api/v2/companies/{company_name}/inventory/serial_transactions/'
+Inventory Serial Transactions,/api/v2/companies/{company_name}/inventory/serial_transactions/
 Inventory Transfers,/api/v2/companies/{company_name}/inventory/transfers/
 Inventory Upcs,/api/v2/companies/{company_name}/inventory/upcs/
 Inventory Warehouses,/api/v2/companies/{company_name}/inventory/warehouses/
@@ -64,7 +63,7 @@ Production History,/api/v2/companies/{company_name}/production/history/
 Production History Items,/api/v2/companies/{company_name}/production/history_items/
 Production Items,/api/v2/companies/{company_name}/production/items/
 Production Orders,/api/v2/companies/{company_name}/production/orders/
-Production Template Items,/api/v2/companies/{company_name}/production/template_items/'
+Production Template Items,/api/v2/companies/{company_name}/production/template_items/
 Production Templates,/api/v2/companies/{company_name}/production/templates/
 Purchasing History,/api/v2/companies/{company_name}/purchasing/history/
 Purchasing History Items,/api/v2/companies/{company_name}/purchasing/history_items/
