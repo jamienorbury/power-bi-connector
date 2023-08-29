@@ -69,8 +69,8 @@ Sales Items,/api/v2/companies/{company_name}/sales/items/
 Sales Orders,/api/v2/companies/{company_name}/sales/orders/
 Sales Taxes,/api/v2/companies/{company_name}/sales_taxes/
 Salespeople,/api/v2/companies/{company_name}/salespeople/
-Equipment,/api/v2/companies/{company_name}/service/equipment
-Sales History Equipment,/api/v2/companies/{company_name}/service/sales_history_equipment
+Equipment,/api/v2/companies/{company_name}/service/equipment/
+Sales History Equipment,/api/v2/companies/{company_name}/service/sales_history_equipment/
 Shipping Methods,/api/v2/companies/{company_name}/shipping_methods/
 Territories,/api/v2/companies/{company_name}/territories/
 User Defined Types,/api/v2/companies/{company_name}/user_defined_types/
