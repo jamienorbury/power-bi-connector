@@ -1,5 +1,4 @@
 Accounts,/api/v2/accounts/
-Companies,/api/v2/companies/
 Addresses,/api/v2/companies/{company_name}/addresses/
 Accounts Payable Aged,/api/v2/companies/{company_name}/ap/aged/
 Accounts Payable Batches,/api/v2/companies/{company_name}/ap/batches/
@@ -19,15 +18,13 @@ Filters,/api/v2/companies/{company_name}/filters/
 Gl Accounts,/api/v2/companies/{company_name}/gl/accounts/
 Gl Divisions,/api/v2/companies/{company_name}/gl/divisions/
 Gl Groups,/api/v2/companies/{company_name}/gl/groups/
-Gl History,/api/v2/companies/{company_name}/gl/history/
 Gl History Transactions,/api/v2/companies/{company_name}/gl/history/transactions/
 Gl Recurring,/api/v2/companies/{company_name}/gl/recurring/
-Gl Reconciliations,/api/v2/companies/{company_name}/gl/reconciliations/'
+Gl Reconciliations,/api/v2/companies/{company_name}/gl/reconciliations/
 Gl Segments,/api/v2/companies/{company_name}/gl/segments/
 Gl Special Accounts,/api/v2/companies/{company_name}/gl/special_accounts/
 Gl Subgroups,/api/v2/companies/{company_name}/gl/subgroups/
 Gl Transactions,/api/v2/companies/{company_name}/gl/transactions/
-Integrations,/api/v2/companies/{company_name}/integrations/
 Inventory Adjustments,/api/v2/companies/{company_name}/inventory/adjustments/
 Inventory Comments,/api/v2/companies/{company_name}/inventory/comments/
 Inventory Components,/api/v2/companies/{company_name}/inventory/components/
@@ -37,16 +34,13 @@ Inventory Items,/api/v2/companies/{company_name}/inventory/items/
 Inventory Levies,/api/v2/companies/{company_name}/inventory/levies/
 Inventory Movement,/api/v2/companies/{company_name}/inventory/movement/
 Inventory Price Matrix,/api/v2/companies/{company_name}/inventory/price_matrix/
-Inventory Promotions,/api/v2/companies/{company_name}/inventory/promotions/
 Inventory Receipts,/api/v2/companies/{company_name}/inventory/receipts/
 Inventory Sales Departments,/api/v2/companies/{company_name}/inventory/sales_departments/
-Inventory Sell Prices,/api/v2/companies/{company_name}/inventory/sell_prices/
 Inventory Serials,/api/v2/companies/{company_name}/inventory/serials/
-Inventory Serial Transactions,/api/v2/companies/{company_name}/inventory/serial_transactions/'
+Inventory Serial Transactions,/api/v2/companies/{company_name}/inventory/serial_transactions/
 Inventory Transfers,/api/v2/companies/{company_name}/inventory/transfers/
 Inventory Upcs,/api/v2/companies/{company_name}/inventory/upcs/
 Inventory Warehouses,/api/v2/companies/{company_name}/inventory/warehouses/
-Job Costing,/api/v2/companies/{company_name}/job_costing/
 Job Costing Accounts,/api/v2/companies/{company_name}/job_costing/accounts/
 Job Costing Entries,/api/v2/companies/{company_name}/job_costing/entries/
 Job Costing Jobs,/api/v2/companies/{company_name}/job_costing/jobs/
@@ -56,25 +50,21 @@ Payroll Departments,/api/v2/companies/{company_name}/payroll/departments/
 Payroll Employee Roes,/api/v2/companies/{company_name}/payroll/employee_roes/
 Payroll Employee T4S,/api/v2/companies/{company_name}/payroll/employee_t4s/
 Payroll Employees,/api/v2/companies/{company_name}/payroll/employees/
-Payroll Schedules,/api/v2/companies/{company_name}/payroll/schedules/
 Payroll Timecard Batches,/api/v2/companies/{company_name}/payroll/timecard_batches/
 Payroll Timecard Entry Codes,/api/v2/companies/{company_name}/payroll/timecard_entry_codes/
 Payroll Timecards,/api/v2/companies/{company_name}/payroll/timecards/
-Phase History,/api/v2/companies/{company_name}/phase/history/
 Phases,/api/v2/companies/{company_name}/phases/
 Production Categories,/api/v2/companies/{company_name}/production/categories/
 Production History,/api/v2/companies/{company_name}/production/history/
 Production History Items,/api/v2/companies/{company_name}/production/history_items/
 Production Items,/api/v2/companies/{company_name}/production/items/
 Production Orders,/api/v2/companies/{company_name}/production/orders/
-Production Template Items,/api/v2/companies/{company_name}/production/template_items/'
+Production Template Items,/api/v2/companies/{company_name}/production/template_items/
 Production Templates,/api/v2/companies/{company_name}/production/templates/
 Purchasing History,/api/v2/companies/{company_name}/purchasing/history/
 Purchasing History Items,/api/v2/companies/{company_name}/purchasing/history_items/
 Purchasing Items,/api/v2/companies/{company_name}/purchasing/items/
 Purchasing Orders,/api/v2/companies/{company_name}/purchasing/orders/
-Reports,/api/v2/companies/{company_name}/reports/
-Sales Batches,/api/v2/companies/{company_name}/sales/batches/
 Sales Invoice Items,/api/v2/companies/{company_name}/sales/invoice_items/
 Sales Invoices,/api/v2/companies/{company_name}/sales/invoices/
 Sales Items,/api/v2/companies/{company_name}/sales/items/
