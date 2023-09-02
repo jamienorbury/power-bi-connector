@@ -19,7 +19,6 @@ Filters,/api/v2/companies/{company_name}/filters/
 Gl Accounts,/api/v2/companies/{company_name}/gl/accounts/
 Gl Divisions,/api/v2/companies/{company_name}/gl/divisions/
 Gl Groups,/api/v2/companies/{company_name}/gl/groups/
-Gl History,/api/v2/companies/{company_name}/gl/history/
 Gl History Transactions,/api/v2/companies/{company_name}/gl/history/transactions/
 Gl Recurring,/api/v2/companies/{company_name}/gl/recurring/
 Gl Reconciliations,/api/v2/companies/{company_name}/gl/reconciliations/
