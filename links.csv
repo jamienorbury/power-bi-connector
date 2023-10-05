@@ -13,7 +13,6 @@ Customers,/api/v2/companies/{company_name}/customers/
 Email Batches,/api/v2/companies/{company_name}/email/batches/
 Email Messages,/api/v2/companies/{company_name}/email/messages/
 Email Templates,/api/v2/companies/{company_name}/email/templates/
-Filters,/api/v2/companies/{company_name}/filters/
 Gl Accounts,/api/v2/companies/{company_name}/gl/accounts/
 Gl Divisions,/api/v2/companies/{company_name}/gl/divisions/
 Gl Groups,/api/v2/companies/{company_name}/gl/groups/
