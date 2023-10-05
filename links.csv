@@ -35,6 +35,7 @@ Inventory Groups,/api/v2/companies/{company_name}/inventory/groups/
 Inventory Items,/api/v2/companies/{company_name}/inventory/items/
 Inventory Levies,/api/v2/companies/{company_name}/inventory/levies/
 Inventory Movement,/api/v2/companies/{company_name}/inventory/movement/
+Inventory Price Levels,/api/v2/companies/{company_name}/inventory/price_levels/
 Inventory Price Matrix,/api/v2/companies/{company_name}/inventory/price_matrix/
 Inventory Promotions,/api/v2/companies/{company_name}/inventory/promotions/
 Inventory Receipts,/api/v2/companies/{company_name}/inventory/receipts/
