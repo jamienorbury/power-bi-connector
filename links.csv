@@ -43,7 +43,6 @@ Inventory Serial Transactions,/api/v2/companies/{company_name}/inventory/serial_
 Inventory Transfers,/api/v2/companies/{company_name}/inventory/transfers/
 Inventory Upcs,/api/v2/companies/{company_name}/inventory/upcs/
 Inventory Warehouses,/api/v2/companies/{company_name}/inventory/warehouses/
-Job Costing,/api/v2/companies/{company_name}/job_costing/
 Job Costing Accounts,/api/v2/companies/{company_name}/job_costing/accounts/
 Job Costing Entries,/api/v2/companies/{company_name}/job_costing/entries/
 Job Costing Jobs,/api/v2/companies/{company_name}/job_costing/jobs/
